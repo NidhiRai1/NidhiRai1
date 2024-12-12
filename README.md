@@ -9,7 +9,7 @@ About Me
 
 Let's Connect!
 - Find me at:
-  - 💻 [Personal Website](https://nitishdas1517.github.io/)
+  - 💻 [Personal Website](https://nidhirai1.github.io/)
   - 👥 [LinkedIn](https://www.linkedin.com/in/nidhi-rai-974814213/)
 - 📫 How to reach me: [nidhirai250701@gmail.com](mailto:nidhirai250701@gmail.com)
 
