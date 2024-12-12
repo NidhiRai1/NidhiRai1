@@ -1,4 +1,4 @@
-## Hi there, I'm Nitish 👋
+## Hi there, I'm Nidhi 👋
 
 About Me
 - 💼 Currently exploring new opportunities to leverage my expertise and contribute to exciting projects.
@@ -10,11 +10,11 @@ About Me
 Let's Connect!
 - Find me at:
   - 💻 [Personal Website](https://nitishdas1517.github.io/)
-  - 👥 [LinkedIn](https://www.linkedin.com/in/nitish-kumar-das/)
-- 📫 How to reach me: [nitishdas1517@gmail.com](mailto:nitishdas1517@gmail.com)
+  - 👥 [LinkedIn](https://www.linkedin.com/in/nidhi-rai-974814213/)
+- 📫 How to reach me: [nidhirai250701@gmail.com](mailto:nidhirai250701@gmail.com)
 
 <!--
-**nitishdas1517/nitishdas1517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NidhiRai1/NidhiRai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 📚 I am currently a senior at UC San Diego, studying Data Science and Business Economics.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 👀 Find me at:
 💻 Personal Website
 👥 LinkedIn
-📫 How to reach me: ppokharel30@gmail.com
+📫 How to reach me: nidhirai250701.com
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
