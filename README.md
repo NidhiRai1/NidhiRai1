@@ -5,12 +5,6 @@ About Me
 - 🌱 Always eager to learn and stay updated with the latest trends and technologies.
 - 🔭 Focused on building scalable and efficient solutions.
 - 💬 Let's connect! I'm open to collaborations, discussions, and networking.
-
-
-Let's Connect!
-- Find me at:
-  - 💻 [Personal Website](https://nidhirai1.github.io/)
-  - 👥 [LinkedIn](https://www.linkedin.com/in/nidhi-rai-974814213/)
 - 📫 How to reach me: [nidhirai250701@gmail.com](mailto:nidhirai250701@gmail.com)
 
 
